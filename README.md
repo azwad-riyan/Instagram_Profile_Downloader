@@ -19,7 +19,7 @@ This tool helps you to download all media files ( Photos & Videos along with the
 Nothing, just download the ```.exe``` file and enjoy.
 # Usage/Examples
 ## Step-by-Step Instructions
-### 1. Download the .exe file from here
+### 1. Download the .exe file from [here}(https://github.com/azwad-riyan/Instagram_Profile_Downloader/releases/download/v.10/Instagram.Profile.Downloader.exe)
 ### 2. Run the tool
 ![Screenshot 2024-07-17 051809](https://github.com/user-attachments/assets/e6cead5b-5217-4711-90ff-e3522c225069)
 
